@@ -1,0 +1,10 @@
+ Id Docente ACD3215
+ Nombre: Santiago
+ Apellido Paterno: Cruz
+ Apellido Materno: Calixto
+ Curp: CRCS110511HDFSJA7
+ Rfc: CRCS121022
+ Numero Telefonico: 5536987452
+ Id Asignatura: IC202376
+ Nombre de la Asignatura: Quimica
+ Asignatura de Tiempo: Tiempo Completo
